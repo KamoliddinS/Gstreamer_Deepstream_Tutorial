@@ -4,7 +4,7 @@
 
 This repository contains all the materials, code samples, and resources for the comprehensive course on GStreamer and Nvidia DeepStream. Dive into the world of multimedia processing and AI-based video analytics with hands-on examples and in-depth explanations.
 
-![Course Banner Image](path_to_your_banner_image.jpg) *// Optional: You can add a banner image for visual appeal.*
+![Course Banner Image](./banner.png)
 
 ## Table of Contents
 
